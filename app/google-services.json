@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890268856661",
+    "firebase_url": "https://moaproject.firebaseio.com",
+    "project_id": "moaproject",
+    "storage_bucket": "moaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890268856661:android:1f197fbb3702b673287fdc",
+        "android_client_info": {
+          "package_name": "com.example.moa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890268856661-1ms2hhnvj3gneopnib4ee6c9dojmr7q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moa",
+            "certificate_hash": "85f87e52ea0e39516bbf904543f8d97965c4e72d"
+          }
+        },
+        {
+          "client_id": "890268856661-6r5m0t9q9v18iir1tsaiv0rk1bdge60u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBet0CHJwP76AqCIt7If3RcDd21KW-5qG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890268856661-6r5m0t9q9v18iir1tsaiv0rk1bdge60u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
